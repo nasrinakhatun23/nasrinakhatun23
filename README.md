@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://yatra-quest-website.vercel.app/ ,
 -  https://heartfelt-zuccutto-f23796.netlify.app/
--   , https://e-commerce444.netlify.app/)
+-   , https://e-commerce-react7.netlify.app/
 
 - 📫 How to reach me **nasrinakhatun23@navgurukul.org**
 
