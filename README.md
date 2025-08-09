@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasrinakhatun23&label=Profile%20views&color=0e75b6&style=flat" alt="nasrinakhatun23" /> </p>
 
-- 🔭 I’m currently working on I am currently working on a paid project called Exploreindiawithuma. I am contributing to the frontend development, and our team consists of four members collaborating together — two on frontend and two on backend.(https://yatra-quest-website.vercel.app/)
+- 🔭 I’m currently working on a paid project traveling website.  I am contributing to the frontend development, and our team consists of four members collaborating together — two on frontend and two on backend.(https://yatra-quest-website.vercel.app/)
 
 - 🌱 I’m currently learning **HTML5 CSS3 JAVASCRIPT REACT.JS C BOOTSTRAP Tailwind CSS WordPress GIT & GITHUB VERCEL Netlify**
 
-- 👨‍💻 All of my projects are available at [https://yatra-quest-website.vercel.app/ ,
+- 👨‍💻 Some of my projects are available at [https://yatra-quest-website.vercel.app/ ,
 -  https://heartfelt-zuccutto-f23796.netlify.app/
 -   , https://e-commerce444.netlify.app/)
 
