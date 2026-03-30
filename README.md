@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nasrina</h1>
-<h3 align="center">Working as an AI/ML Intern, gaining hands-on experience in building real-world, scalable AI applications.
+<h2 align="center">Hi 👋, I'm Nasrina</h2>
+<h5 align="center">Working as an AI/ML Intern, gaining hands-on experience in building real-world, scalable AI applications.
 Exploring Machine Learning, LLMs, and RAG, while working with data and developing practical solutions.
-Improving Python skills and integrating AI into modern web applications, enhancing problem-solving and industry-level understanding..</h3>
+Improving Python skills and integrating AI into modern web applications, enhancing problem-solving and industry-level understanding..</h5>
 
 <img align="right" alt="coding" width="400px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasrinakhatun23&label=Profile%20views&color=0e75b6&style=flat" alt="nasrinakhatun23" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasrinakhatun23&label=Profile%20views&color=0e75b6&style=flat" alt="nasrinakhatun23" /> </p>
 
 - 🔭 I’m currently working on a paid project traveling website.  I am contributing to the frontend development, and our team consists of four members collaborating together — two on frontend and two on backend.(https://yatra-quest-website.vercel.app/)
 
@@ -13,7 +13,7 @@ Improving Python skills and integrating AI into modern web applications, enhanci
 
 - 👨‍💻 Some of my projects are available at [https://yatra-quest-website.vercel.app/ ,
 -  https://heartfelt-zuccutto-f23796.netlify.app/
--   , https://e-commerce-react7.netlify.app/
+-   , https://e-commerce-react7.netlify.app/ -->
 
 - 📫 How to reach me **nasrinakhatun23@navgurukul.org**
 
