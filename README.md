@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasrina</h1>
-<h3 align="center">A student at NavGurukul and an aspiring Frontend Developer. Completed a Frontend Development Bootcamp at Meraki, gaining skills in HTML, CSS, JavaScript, and React. Built projects including a chatbot, movie app, food ordering platform, and e-commerce website, and contributed to a paid tourist travel website as part of a team. Passionate about creating impactful applications, thrives in collaborative environments, and continuously works to enhance skills.</h3>
+<h3 align="center">Working as an AI/ML Intern, gaining hands-on experience in building real-world, scalable AI applications.
+Exploring Machine Learning, LLMs, and RAG, while working with data and developing practical solutions.
+Improving Python skills and integrating AI into modern web applications, enhancing problem-solving and industry-level understanding..</h3>
 
 <img align="right" alt="coding" width="400px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
