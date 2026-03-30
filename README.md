@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nasrinakhatun23@navgurukul.org**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13FeRfCVfcaH2DyYVqQPd5t_rvFAzUHP_/view?usp=sharing](https://drive.google.com/file/d/13FeRfCVfcaH2DyYVqQPd5t_rvFAzUHP_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1m09ugSIwZrcFZbDAmlCnwe72zjW8CFpk/view?usp=sharing](https://drive.google.com/file/d/1m09ugSIwZrcFZbDAmlCnwe72zjW8CFpk/view?usp=sharing)
 
 - ⚡ Fun fact **I am highly punctual and value timely delivery in all my work.**
 
