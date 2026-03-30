@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Nasrina</h2>
-<h5 align="center">Working as an AI/ML Intern, gaining hands-on experience in building real-world, scalable AI applications.
+<h4 align="center">Working as an AI/ML Intern, gaining hands-on experience in building real-world, scalable AI applications.
 Exploring Machine Learning, LLMs, and RAG, while working with data and developing practical solutions.
-Improving Python skills and integrating AI into modern web applications, enhancing problem-solving and industry-level understanding..</h5>
+Improving Python skills and integrating AI into modern web applications, enhancing problem-solving and industry-level understanding..</h4>
 
 <img align="right" alt="coding" width="400px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
