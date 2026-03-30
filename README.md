@@ -77,9 +77,9 @@ Improving Python skills and integrating AI into modern web applications, enhanci
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> 
 </a> 
 
-<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" alt="ai" width="40" height="40"/> 
-</a> 
+</a>  -->
 
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="ml" width="40" height="40"/> 
@@ -89,9 +89,9 @@ Improving Python skills and integrating AI into modern web applications, enhanci
 <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" alt="dl" width="40" height="40"/> 
 </a> 
 
-<a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/4149/4149674.png" alt="llm" width="40" height="40"/> 
-</a> 
+</a>  -->
 
 <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" alt="rag" width="40" height="40"/> 
